@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gameing-ecom/static/css/main.c6682127.css",
+    "main.js": "/gameing-ecom/static/js/main.8f1fe265.js",
+    "index.html": "/gameing-ecom/index.html",
+    "main.c6682127.css.map": "/gameing-ecom/static/css/main.c6682127.css.map",
+    "main.8f1fe265.js.map": "/gameing-ecom/static/js/main.8f1fe265.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6682127.css",
+    "static/js/main.8f1fe265.js"
+  ]
+}
